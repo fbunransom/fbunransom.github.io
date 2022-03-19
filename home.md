@@ -3,7 +3,7 @@ layout: page
 title: Unransom your own Facebook Data
 description: A social media campaign against the ransoming of our data by Facebook Inc.
 permalink: index.html
-img: https://github.com/fbunransom/fbunransom.github.io/raw/main/assets/images/not%20on%20fb.jpg
+img: /assets/images/not%20on%20fb.jpg
 refreshnum: 1
 ---
 
